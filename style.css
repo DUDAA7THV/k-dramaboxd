@@ -1,0 +1,25 @@
+body{
+    color:white;
+    background:lightpink;
+    margin: 0px;
+}
+
+header{
+    border-bottom:solid 2px white;
+    padding: 20px;
+    font-size: 27;
+    
+    }
+
+    section{
+        background: lightpink;
+        padding-bottom: 50px;
+        padding-top: 50px;
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    div{
+        margin: right 20px;
+    }
